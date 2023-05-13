@@ -8,3 +8,4 @@ D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\bin\Debug\CPULagStop.exe
 D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\bin\Debug\CPULagStop.pdb
 D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\obj\Debug\CPULagStop.exe
 D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\obj\Debug\CPULagStop.pdb
+D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\obj\Debug\CPULagStop.Form1.resources
