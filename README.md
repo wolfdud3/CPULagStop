@@ -1,4 +1,4 @@
-# LagStop
+# CPU LagStop
 Batch Script creator for programs to use only specific CPU cores. Creates the script used [here](https://www.wolfdud3.com/main/instruction?craftid=8) by filling in only information.
 
 Now and then programs (especially games) are putting all their load onto the first core of the CPU, creating performance issues.
