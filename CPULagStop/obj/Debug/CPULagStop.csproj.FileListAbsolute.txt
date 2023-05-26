@@ -1,0 +1,11 @@
+D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\obj\Debug\CPULagStop.csproj.AssemblyReference.cache
+D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\obj\Debug\CPULagStop.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\obj\Debug\CPULagStop.Properties.Resources.resources
+D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\obj\Debug\CPULagStop.csproj.GenerateResource.cache
+D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\obj\Debug\CPULagStop.csproj.CoreCompileInputs.cache
+D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\bin\Debug\CPULagStop.exe.config
+D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\bin\Debug\CPULagStop.exe
+D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\bin\Debug\CPULagStop.pdb
+D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\obj\Debug\CPULagStop.exe
+D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\obj\Debug\CPULagStop.pdb
+D:\Documents\Computer\Code\C#\CPULagStop\CPULagStop\obj\Debug\CPULagStop.Form1.resources
